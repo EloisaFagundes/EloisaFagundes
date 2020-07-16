@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, sou Eloisa Fagundes 👋
 
-<!--
-**EloisaFagundes/EloisaFagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de desenvolvimento fullstack que vive em SP, apaixonada por códigos, tipografia e gatos.  :smiley_cat:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosanarezende/)](https://www.linkedin.com/in/eloisa-fernanda-nunes-fagundes-1b72bbb1/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:triangular_flag_on_post:	_Meu Portfólio:_ http://eloisa.surge.sh/
+
+
+## Tecnologias :computer:
+
+-  JavaScript, HTML, CSS, TypeScript, MySQL, React.js, Node.js e mais.
+
